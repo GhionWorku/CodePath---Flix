@@ -3,7 +3,24 @@ movie browsing app
 
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-📝 `NOTE - PASTE PART 2 SNIPPET HERE:` Paste the README template for part 2 of this assignment here at the top. This will show a history of your development process, which users stories you completed and how your app looked and functioned at each step.
+## Flix Part 2
+
+### User Stories
+
+#### REQUIRED (10pts)
+- [x] (5pts) User can tap a cell to see more details about a particular movie.
+- [ ] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+
+#### BONUS
+- [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
+- [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
+
+### App Walkthrough GIF (compressed file)
+
+/Users/ghionworku/Downloads/flixP2gif.webm 
+
+### Notes
+"Now Playing" tab worked, but when "Superhero" tab was clicked, it kept giving this error in the MovieGridViewController class: "Unexpectedly found nil while implicitly unwrapping an Optional value." I was not able to fix this issue by the deadline; I got one suggestion on slack as a possible solution, but I had already implemented the suggestion, and it did not fix the issue.
 
 ---
 
