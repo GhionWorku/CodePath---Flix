@@ -15,12 +15,12 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
-### App Walkthrough GIF (compressed file)
-
-/Users/ghionworku/Downloads/flixP2gif.webm 
+### App Walkthrough GIF
+![](https://i.imgur.com/fKCgSPB.gif)
 
 ### Notes
 "Now Playing" tab worked, but when "Superhero" tab was clicked, it kept giving this error in the MovieGridViewController class: "Unexpectedly found nil while implicitly unwrapping an Optional value." I was not able to fix this issue by the deadline; I got one suggestion on slack as a possible solution, but I had already implemented the suggestion, and it did not fix the issue.
+
 
 ---
 
@@ -40,7 +40,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-https://i.imgur.com/teyATBm.gif
+![](https://i.imgur.com/teyATBm.gif)
 
 ### Notes
 Describe any challenges encountered while building the app.
